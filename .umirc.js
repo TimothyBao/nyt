@@ -2,7 +2,7 @@
 // ref: https://umijs.org/config/
 export default {
   treeShaking: true,
-  publicPath: './nyt/',
+  base: '/nyt/',
   routes: [
     {
       path: '/',
