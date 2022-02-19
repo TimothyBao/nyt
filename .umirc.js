@@ -2,7 +2,6 @@
 // ref: https://umijs.org/config/
 export default {
   treeShaking: true,
-  publicPath: './',
   routes: [
     {
       path: '/',
