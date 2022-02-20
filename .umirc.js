@@ -2,8 +2,8 @@
 // ref: https://umijs.org/config/
 export default {
   treeShaking: true,
-  publicPath: '/nyt/',
-  base:'/nyt/',
+  // publicPath: '/nyt/',
+  // base:'/nyt/',
   routes: [
     {
       path: '/',
@@ -13,7 +13,7 @@ export default {
       ]
     }
   ],
-  outputPath:'/docs',
+  // outputPath:'/docs',
   plugins: [
     // ref: https://umijs.org/plugin/umi-plugin-react.html
     ['umi-plugin-react', {
