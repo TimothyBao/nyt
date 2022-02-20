@@ -1,9 +1,11 @@
 import styles from './index.css';
-
+import logo from '../assets/logo.png';
 function BasicLayout(props) {
   return (
     <div className={styles.normal}>
-      <p>Deployed on https://timothybao.github.io/nyt/</p>
+      <div className={styles.logoBox}>
+          <img className={styles.logoImage} src={logo} />
+        </div>
       {props.children}
     </div>
   );

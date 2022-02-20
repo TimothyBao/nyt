@@ -1,0 +1,788 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+    "num_results": 15,
+    "last_modified": "2022-02-16T23:18:17-05:00",
+    "results": [
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "bestsellers_date": "2022-02-12",
+            "published_date": "2022-02-27",
+            "rank": 1,
+            "rank_last_week": 1,
+            "weeks_on_list": 173,
+            "asterisk": 0,
+            "dagger": 0,
+            "amazon_product_url": "http:\/\/www.amazon.com\/The-Body-Keeps-Score-Healing\/dp\/0670785938?tag=NYTBSREV-20",
+            "isbns": [
+                {
+                    "isbn10": "0670785938",
+                    "isbn13": "9780670785933"
+                },
+                {
+                    "isbn10": "0143127748",
+                    "isbn13": "9780143127741"
+                },
+                {
+                    "isbn10": "1469092352",
+                    "isbn13": "9781469092355"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "THE BODY KEEPS THE SCORE",
+                    "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+                    "contributor": "by Bessel van der Kolk",
+                    "author": "Bessel van der Kolk",
+                    "contributor_note": "",
+                    "price": "0.00",
+                    "age_group": "",
+                    "publisher": "Penguin",
+                    "primary_isbn13": "9780143127741",
+                    "primary_isbn10": "0143127748"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "https:\/\/www.nytimes.com\/2018\/10\/18\/books\/review\/how-to-rewire-your-traumatized-brain.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "bestsellers_date": "2022-02-12",
+            "published_date": "2022-02-27",
+            "rank": 2,
+            "rank_last_week": 2,
+            "weeks_on_list": 10,
+            "asterisk": 0,
+            "dagger": 0,
+            "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0060959479?tag=NYTBSREV-20",
+            "isbns": [
+                {
+                    "isbn10": "0060959479",
+                    "isbn13": "9780060959470"
+                },
+                {
+                    "isbn10": "0062862170",
+                    "isbn13": "9780062862174"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "ALL ABOUT LOVE",
+                    "description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+                    "contributor": "by bell hooks",
+                    "author": "bell hooks",
+                    "contributor_note": "",
+                    "price": "0.00",
+                    "age_group": "",
+                    "publisher": "Morrow",
+                    "primary_isbn13": "9780060959470",
+                    "primary_isbn10": "0060959479"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https:\/\/www.nytimes.com\/2000\/01\/30\/books\/that-4-letter-word.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "bestsellers_date": "2022-02-12",
+            "published_date": "2022-02-27",
+            "rank": 3,
+            "rank_last_week": 0,
+            "weeks_on_list": 1,
+            "asterisk": 0,
+            "dagger": 0,
+            "amazon_product_url": "https:\/\/www.amazon.com\/Educated-Memoir-Tara-Westover\/dp\/0399590501?tag=NYTBSREV-20",
+            "isbns": [
+                {
+                    "isbn10": "0399590501",
+                    "isbn13": "9780399590504"
+                },
+                {
+                    "isbn10": "039959051X",
+                    "isbn13": "9780399590511"
+                },
+                {
+                    "isbn10": "0525589988",
+                    "isbn13": "9780525589983"
+                },
+                {
+                    "isbn10": "0525528059",
+                    "isbn13": "9780525528050"
+                },
+                {
+                    "isbn10": "0399590528",
+                    "isbn13": "9780399590528"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "EDUCATED",
+                    "description": "The daughter of survivalists, who is kept out of school, educates herself enough to leave home for university.",
+                    "contributor": "by Tara Westover",
+                    "author": "Tara Westover",
+                    "contributor_note": "",
+                    "price": "0.00",
+                    "age_group": "",
+                    "publisher": "Random House",
+                    "primary_isbn13": "9780399590528",
+                    "primary_isbn10": "0399590528"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "https:\/\/www.nytimes.com\/2018\/03\/01\/books\/review\/tara-westover-educated.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "bestsellers_date": "2022-02-12",
+            "published_date": "2022-02-27",
+            "rank": 4,
+            "rank_last_week": 3,
+            "weeks_on_list": 96,
+            "asterisk": 0,
+            "dagger": 0,
+            "amazon_product_url": "https:\/\/www.amazon.com\/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge\/dp\/1571313567?tag=NYTBSREV-20",
+            "isbns": [
+                {
+                    "isbn10": "1571313567",
+                    "isbn13": "9781571313560"
+                },
+                {
+                    "isbn10": "1515975908",
+                    "isbn13": "9781515975908"
+                },
+                {
+                    "isbn10": "1571318712",
+                    "isbn13": "9781571318718"
+                },
+                {
+                    "isbn10": "1571311777",
+                    "isbn13": "9781571311771"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "BRAIDING SWEETGRASS",
+                    "description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+                    "contributor": "by Robin Wall Kimmerer",
+                    "author": "Robin Wall Kimmerer",
+                    "contributor_note": "",
+                    "price": "0.00",
+                    "age_group": "",
+                    "publisher": "Milkweed Editions",
+                    "primary_isbn13": "9781571313560",
+                    "primary_isbn10": "1571313567"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "bestsellers_date": "2022-02-12",
+            "published_date": "2022-02-27",
+            "rank": 5,
+            "rank_last_week": 6,
+            "weeks_on_list": 20,
+            "asterisk": 0,
+            "dagger": 0,
+            "amazon_product_url": "https:\/\/www.amazon.com\/Talking-Strangers-Should-about-People\/dp\/0316478520?tag=NYTBSREV-20",
+            "isbns": [
+                {
+                    "isbn10": "0316478520",
+                    "isbn13": "9780316478526"
+                },
+                {
+                    "isbn10": "0316535575",
+                    "isbn13": "9780316535571"
+                },
+                {
+                    "isbn10": "0316535621",
+                    "isbn13": "9780316535625"
+                },
+                {
+                    "isbn10": "1549150340",
+                    "isbn13": "9781549150340"
+                },
+                {
+                    "isbn10": "1549150332",
+                    "isbn13": "9781549150333"
+                },
+                {
+                    "isbn10": "1549100025",
+                    "isbn13": "9781549100024"
+                },
+                {
+                    "isbn10": "1549100017",
+                    "isbn13": "9781549100017"
+                },
+                {
+                    "isbn10": "0316299227",
+                    "isbn13": "9780316299220"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "TALKING TO STRANGERS",
+                    "description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+                    "contributor": "by Malcolm Gladwell",
+                    "author": "Malcolm Gladwell",
+                    "contributor_note": "",
+                    "price": "0.00",
+                    "age_group": "",
+                    "publisher": "Back Bay",
+                    "primary_isbn13": "9780316299220",
+                    "primary_isbn10": "0316299227"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "https:\/\/www.nytimes.com\/2019\/09\/04\/books\/review-talking-to-strangers-malcolm-gladwell.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "bestsellers_date": "2022-02-12",
+            "published_date": "2022-02-27",
+            "rank": 6,
+            "rank_last_week": 4,
+            "weeks_on_list": 150,
+            "asterisk": 0,
+            "dagger": 0,
+            "amazon_product_url": "https:\/\/www.amazon.com\/Born-Crime-Stories-African-Childhood-ebook\/dp\/B01DHWACVY?tag=NYTBSREV-20",
+            "isbns": [
+                {
+                    "isbn10": "0399588175",
+                    "isbn13": "9780399588174"
+                },
+                {
+                    "isbn10": "0399588183",
+                    "isbn13": "9780399588181"
+                },
+                {
+                    "isbn10": "1531865038",
+                    "isbn13": "9781531865030"
+                },
+                {
+                    "isbn10": "1531865046",
+                    "isbn13": "9781531865047"
+                },
+                {
+                    "isbn10": "0399588191",
+                    "isbn13": "9780399588198"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "BORN A CRIME",
+                    "description": "A memoir about growing up biracial in apartheid South Africa by the host of \u201cThe Daily Show.\u201d",
+                    "contributor": "by Trevor Noah",
+                    "author": "Trevor Noah",
+                    "contributor_note": "",
+                    "price": "0.00",
+                    "age_group": "",
+                    "publisher": "One World",
+                    "primary_isbn13": "9780399588198",
+                    "primary_isbn10": "0399588191"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "bestsellers_date": "2022-02-12",
+            "published_date": "2022-02-27",
+            "rank": 7,
+            "rank_last_week": 7,
+            "weeks_on_list": 305,
+            "asterisk": 0,
+            "dagger": 0,
+            "amazon_product_url": "http:\/\/www.amazon.com\/Thinking-Fast-Slow-Daniel-Kahneman-ebook\/dp\/B00555X8OA?tag=NYTBSREV-20",
+            "isbns": [
+                {
+                    "isbn10": "0374275637",
+                    "isbn13": "9780374275631"
+                },
+                {
+                    "isbn10": "0739357980",
+                    "isbn13": "9780739357989"
+                },
+                {
+                    "isbn10": "0374533555",
+                    "isbn13": "9780374533557"
+                },
+                {
+                    "isbn10": "0606275649",
+                    "isbn13": "9780606275644"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "THINKING, FAST AND SLOW",
+                    "description": "When we can and cannot trust our intuitions in making business and personal decisions.",
+                    "contributor": "by Daniel Kahneman",
+                    "author": "Daniel Kahneman",
+                    "contributor_note": "",
+                    "price": "0.00",
+                    "age_group": "",
+                    "publisher": "Farrar, Straus & Giroux",
+                    "primary_isbn13": "9780374533557",
+                    "primary_isbn10": "0374533555"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "https:\/\/www.nytimes.com\/2011\/11\/27\/books\/review\/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https:\/\/www.nytimes.com\/2011\/11\/27\/books\/review\/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "bestsellers_date": "2022-02-12",
+            "published_date": "2022-02-27",
+            "rank": 8,
+            "rank_last_week": 12,
+            "weeks_on_list": 2,
+            "asterisk": 0,
+            "dagger": 0,
+            "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1984855018?tag=NYTBSREV-20",
+            "isbns": [
+                {
+                    "isbn10": "1984855018",
+                    "isbn13": "9781984855015"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "ALL THAT SHE CARRIED",
+                    "description": "The story of an enslaved woman whose daughter was separated from her and sold is passed down through generations.",
+                    "contributor": "by Tiya Miles",
+                    "author": "Tiya Miles",
+                    "contributor_note": "",
+                    "price": "0.00",
+                    "age_group": "",
+                    "publisher": "Random House",
+                    "primary_isbn13": "9781984855015",
+                    "primary_isbn10": "1984855018"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "bestsellers_date": "2022-02-12",
+            "published_date": "2022-02-27",
+            "rank": 9,
+            "rank_last_week": 9,
+            "weeks_on_list": 16,
+            "asterisk": 0,
+            "dagger": 0,
+            "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0063159988?tag=NYTBSREV-20",
+            "isbns": [
+                {
+                    "isbn10": "0063159988",
+                    "isbn13": "9780063159983"
+                },
+                {
+                    "isbn10": "0060937750",
+                    "isbn13": "9780060937751"
+                },
+                {
+                    "isbn10": "0062222678",
+                    "isbn13": "9780062222671"
+                },
+                {
+                    "isbn10": "0063040271",
+                    "isbn13": "9780063040274"
+                },
+                {
+                    "isbn10": "1799941256",
+                    "isbn13": "9781799941255"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "THE HOUSE OF GUCCI",
+                    "description": "An account of the murder of Maurizio Gucci in 1995; the basis of the film.",
+                    "contributor": "by Sara Gay Forden",
+                    "author": "Sara Gay Forden",
+                    "contributor_note": "",
+                    "price": "0.00",
+                    "age_group": "",
+                    "publisher": "Custom House",
+                    "primary_isbn13": "9780063159983",
+                    "primary_isbn10": "0063159988"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "bestsellers_date": "2022-02-12",
+            "published_date": "2022-02-27",
+            "rank": 10,
+            "rank_last_week": 11,
+            "weeks_on_list": 7,
+            "asterisk": 0,
+            "dagger": 0,
+            "amazon_product_url": "https:\/\/www.amazon.com\/dp\/1400078431?tag=NYTBSREV-20",
+            "isbns": [
+                {
+                    "isbn10": "1400078431",
+                    "isbn13": "9781400078431"
+                },
+                {
+                    "isbn10": "0307279723",
+                    "isbn13": "9780307279729"
+                },
+                {
+                    "isbn10": "1598872079",
+                    "isbn13": "9781598872071"
+                },
+                {
+                    "isbn10": "140004314X",
+                    "isbn13": "9781400043149"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "THE YEAR OF MAGICAL THINKING",
+                    "description": "Winner of the National Book Award in 2005. The late writer recounts her daughter\u2019s illness and husband\u2019s death.",
+                    "contributor": "by Joan Didion",
+                    "author": "Joan Didion",
+                    "contributor_note": "",
+                    "price": "0.00",
+                    "age_group": "",
+                    "publisher": "Vintage",
+                    "primary_isbn13": "9781400078431",
+                    "primary_isbn10": "1400078431"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "https:\/\/www.nytimes.com\/2005\/10\/09\/books\/review\/09pinsky.html",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "bestsellers_date": "2022-02-12",
+            "published_date": "2022-02-27",
+            "rank": 11,
+            "rank_last_week": 14,
+            "weeks_on_list": 2,
+            "asterisk": 0,
+            "dagger": 0,
+            "amazon_product_url": "https:\/\/www.amazon.com\/dp\/059331848X?tag=NYTBSREV-20",
+            "isbns": [
+                {
+                    "isbn10": "059331848X",
+                    "isbn13": "9780593318485"
+                },
+                {
+                    "isbn10": "0593318498",
+                    "isbn13": "9780593318492"
+                },
+                {
+                    "isbn10": "0593312198",
+                    "isbn13": "9780593312193"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "LET ME TELL YOU WHAT I MEAN",
+                    "description": "A collection of 12 pieces written between 1968 and 2000 that includes observations on the underground press and the act of writing.",
+                    "contributor": "by Joan Didion",
+                    "author": "Joan Didion",
+                    "contributor_note": "",
+                    "price": "0.00",
+                    "age_group": "",
+                    "publisher": "Vintage",
+                    "primary_isbn13": "9780593312193",
+                    "primary_isbn10": "0593312198"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "bestsellers_date": "2022-02-12",
+            "published_date": "2022-02-27",
+            "rank": 12,
+            "rank_last_week": 0,
+            "weeks_on_list": 1,
+            "asterisk": 0,
+            "dagger": 0,
+            "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0525509569?tag=NYTBSREV-20",
+            "isbns": [
+                {
+                    "isbn10": "0525509569",
+                    "isbn13": "9780525509561"
+                },
+                {
+                    "isbn10": "0525509577",
+                    "isbn13": "9780525509578"
+                },
+                {
+                    "isbn10": "0525509585",
+                    "isbn13": "9780525509585"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "THE SUM OF US",
+                    "description": "The chair of the board of the racial justice organization Color of Change analyzes the impact of racism on the economy.",
+                    "contributor": "by Heather McGhee",
+                    "author": "Heather McGhee",
+                    "contributor_note": "",
+                    "price": "0.00",
+                    "age_group": "",
+                    "publisher": "One World",
+                    "primary_isbn13": "9780525509585",
+                    "primary_isbn10": "0525509585"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "bestsellers_date": "2022-02-12",
+            "published_date": "2022-02-27",
+            "rank": 13,
+            "rank_last_week": 10,
+            "weeks_on_list": 103,
+            "asterisk": 0,
+            "dagger": 0,
+            "amazon_product_url": "http:\/\/www.amazon.com\/Grit-The-Power-Passion-Perseverance-ebook\/dp\/B010MH9V3W?tag=NYTBSREV-20",
+            "isbns": [
+                {
+                    "isbn10": "1501111108",
+                    "isbn13": "9781501111105"
+                },
+                {
+                    "isbn10": "1501111124",
+                    "isbn13": "9781501111129"
+                },
+                {
+                    "isbn10": "1442397144",
+                    "isbn13": "9781442397149"
+                },
+                {
+                    "isbn10": "1501111116",
+                    "isbn13": "9781501111112"
+                },
+                {
+                    "isbn10": "1442397136",
+                    "isbn13": "9781442397132"
+                },
+                {
+                    "isbn10": "1501144162",
+                    "isbn13": "9781501144165"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "GRIT",
+                    "description": "The MacArthur Fellow argues that passion and perseverance are more important than innate talent in creating success.",
+                    "contributor": "by Angela Duckworth",
+                    "author": "Angela Duckworth",
+                    "contributor_note": "",
+                    "price": "0.00",
+                    "age_group": "",
+                    "publisher": "Scribner",
+                    "primary_isbn13": "9781501111112",
+                    "primary_isbn10": "1501111116"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "https:\/\/www.nytimes.com\/2016\/05\/08\/books\/review\/grit-by-angela-duckworth.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "bestsellers_date": "2022-02-12",
+            "published_date": "2022-02-27",
+            "rank": 14,
+            "rank_last_week": 0,
+            "weeks_on_list": 101,
+            "asterisk": 0,
+            "dagger": 0,
+            "amazon_product_url": "https:\/\/www.amazon.com\/Killers-Flower-Moon-Osage-Murders\/dp\/0385534248?tag=NYTBSREV-20",
+            "isbns": [
+                {
+                    "isbn10": "0385534248",
+                    "isbn13": "9780385534246"
+                },
+                {
+                    "isbn10": "0385534256",
+                    "isbn13": "9780385534253"
+                },
+                {
+                    "isbn10": "1524755931",
+                    "isbn13": "9781524755935"
+                },
+                {
+                    "isbn10": "0307742482",
+                    "isbn13": "9780307742483"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "KILLERS OF THE FLOWER MOON",
+                    "description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil. The fledgling F.B.I. intervened, ineffectively.",
+                    "contributor": "by David Grann",
+                    "author": "David Grann",
+                    "contributor_note": "",
+                    "price": "0.00",
+                    "age_group": "",
+                    "publisher": "Vintage",
+                    "primary_isbn13": "9780307742483",
+                    "primary_isbn10": "0307742482"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "https:\/\/www.nytimes.com\/2017\/04\/28\/books\/review\/killers-of-the-flower-moon-david-grann.html",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        },
+        {
+            "list_name": "Paperback Nonfiction",
+            "display_name": "Paperback Nonfiction",
+            "bestsellers_date": "2022-02-12",
+            "published_date": "2022-02-27",
+            "rank": 15,
+            "rank_last_week": 15,
+            "weeks_on_list": 19,
+            "asterisk": 0,
+            "dagger": 0,
+            "amazon_product_url": "https:\/\/www.amazon.com\/dp\/0063030934?tag=NYTBSREV-20",
+            "isbns": [
+                {
+                    "isbn10": "0063030934",
+                    "isbn13": "9780063030930"
+                },
+                {
+                    "isbn10": "0063030942",
+                    "isbn13": "9780063030947"
+                },
+                {
+                    "isbn10": "0063030926",
+                    "isbn13": "9780063030923"
+                }
+            ],
+            "book_details": [
+                {
+                    "title": "THE DRESSMAKERS OF AUSCHWITZ",
+                    "description": "Twenty-five young inmates of the Auschwitz-Birkenau concentration camp made garments for elite Nazi women.",
+                    "contributor": "by Lucy Adlington",
+                    "author": "Lucy Adlington",
+                    "contributor_note": "",
+                    "price": "0.00",
+                    "age_group": "",
+                    "publisher": "Harper",
+                    "primary_isbn13": "9780063030930",
+                    "primary_isbn10": "0063030934"
+                }
+            ],
+            "reviews": [
+                {
+                    "book_review_link": "",
+                    "first_chapter_link": "",
+                    "sunday_review_link": "",
+                    "article_chapter_link": ""
+                }
+            ]
+        }
+    ]
+}

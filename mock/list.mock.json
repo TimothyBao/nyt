@@ -1,0 +1,1103 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+  "num_results": 15,
+  "last_modified": "2022-02-10T13:13:46-05:00",
+  "results": {
+    "list_name": "Paperback Nonfiction",
+    "list_name_encoded": "paperback-nonfiction",
+    "bestsellers_date": "2022-02-05",
+    "published_date": "2022-02-20",
+    "published_date_description": "one_before_latest",
+    "next_published_date": "2022-02-27",
+    "previous_published_date": "2022-02-13",
+    "display_name": "Paperback Nonfiction",
+    "normal_list_ends_at": 15,
+    "updated": "WEEKLY",
+    "books": [
+      {
+        "rank": 1,
+        "rank_last_week": 1,
+        "weeks_on_list": 172,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0143127748",
+        "primary_isbn13": "9780143127741",
+        "publisher": "Penguin",
+        "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+        "price": "0.00",
+        "title": "THE BODY KEEPS THE SCORE",
+        "author": "Bessel van der Kolk",
+        "contributor": "by Bessel van der Kolk",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+        "book_image_width": 128,
+        "book_image_height": 193,
+        "amazon_product_url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "https://www.nytimes.com/2018/10/18/books/review/how-to-rewire-your-traumatized-brain.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0670785938",
+            "isbn13": "9780670785933"
+          },
+          {
+            "isbn10": "0143127748",
+            "isbn13": "9780143127741"
+          },
+          {
+            "isbn10": "1469092352",
+            "isbn13": "9781469092355"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780143127741?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780143127741"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BBODY%252BKEEPS%252BTHE%252BSCORE%252FBessel%252Bvan%252Bder%252BKolk%252F9780143127741&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BBODY%252BKEEPS%252BTHE%252BSCORE%252BBessel%252Bvan%252Bder%252BKolk"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780143127741&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BBODY%2BKEEPS%2BTHE%2BSCORE"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780143127741%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BBODY%2BKEEPS%2BTHE%2BSCORE%2BBessel%2Bvan%2Bder%2BKolk%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt://book/e3e33e9d-0e67-5fec-b0d2-2ecddc38ce0e"
+      },
+      {
+        "rank": 2,
+        "rank_last_week": 3,
+        "weeks_on_list": 9,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0060959479",
+        "primary_isbn13": "9780060959470",
+        "publisher": "Morrow",
+        "description": "The late feminist icon explores the causes of a polarized society and the meaning of love.",
+        "price": "0.00",
+        "title": "ALL ABOUT LOVE",
+        "author": "bell hooks",
+        "contributor": "by bell hooks",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780060959470.jpg",
+        "book_image_width": 319,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0060959479?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "https://www.nytimes.com/2000/01/30/books/that-4-letter-word.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0060959479",
+            "isbn13": "9780060959470"
+          },
+          {
+            "isbn10": "0062862170",
+            "isbn13": "9780062862174"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0060959479?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780060959470?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780060959470"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FALL%252BABOUT%252BLOVE%252Fbell%252Bhooks%252F9780060959470&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DALL%252BABOUT%252BLOVE%252Bbell%252Bhooks"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780060959470&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DALL%2BABOUT%2BLOVE"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780060959470%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DALL%2BABOUT%2BLOVE%2Bbell%2Bhooks%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt://book/84ce374b-f6b1-5f05-8556-b0e09e97679c"
+      },
+      {
+        "rank": 3,
+        "rank_last_week": 2,
+        "weeks_on_list": 95,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1571313567",
+        "primary_isbn13": "9781571313560",
+        "publisher": "Milkweed Editions",
+        "description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+        "price": "0.00",
+        "title": "BRAIDING SWEETGRASS",
+        "author": "Robin Wall Kimmerer",
+        "contributor": "by Robin Wall Kimmerer",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+        "book_image_width": 321,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge/dp/1571313567?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1571313567",
+            "isbn13": "9781571313560"
+          },
+          {
+            "isbn10": "1515975908",
+            "isbn13": "9781515975908"
+          },
+          {
+            "isbn10": "1571318712",
+            "isbn13": "9781571318718"
+          },
+          {
+            "isbn10": "1571311777",
+            "isbn13": "9781571311771"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge/dp/1571313567?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781571313560?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781571313560"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FBRAIDING%252BSWEETGRASS%252FRobin%252BWall%252BKimmerer%252F9781571313560&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DBRAIDING%252BSWEETGRASS%252BRobin%252BWall%252BKimmerer"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781571313560&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DBRAIDING%2BSWEETGRASS"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781571313560%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DBRAIDING%2BSWEETGRASS%2BRobin%2BWall%2BKimmerer%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt://book/194ea111-42ad-5795-9fb5-3e155ffa5e79"
+      },
+      {
+        "rank": 4,
+        "rank_last_week": 5,
+        "weeks_on_list": 149,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0399588191",
+        "primary_isbn13": "9780399588198",
+        "publisher": "One World",
+        "description": "A memoir about growing up biracial in apartheid South Africa by the host of “The Daily Show.”",
+        "price": "0.00",
+        "title": "BORN A CRIME",
+        "author": "Trevor Noah",
+        "contributor": "by Trevor Noah",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780399588181.jpg",
+        "book_image_width": 326,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Born-Crime-Stories-African-Childhood-ebook/dp/B01DHWACVY?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0399588175",
+            "isbn13": "9780399588174"
+          },
+          {
+            "isbn10": "0399588183",
+            "isbn13": "9780399588181"
+          },
+          {
+            "isbn10": "1531865038",
+            "isbn13": "9781531865030"
+          },
+          {
+            "isbn10": "1531865046",
+            "isbn13": "9781531865047"
+          },
+          {
+            "isbn10": "0399588191",
+            "isbn13": "9780399588198"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Born-Crime-Stories-African-Childhood-ebook/dp/B01DHWACVY?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780399588198?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399588198"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FBORN%252BA%252BCRIME%252FTrevor%252BNoah%252F9780399588198&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DBORN%252BA%252BCRIME%252BTrevor%252BNoah"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780399588198&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DBORN%2BA%2BCRIME"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780399588198%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DBORN%2BA%2BCRIME%2BTrevor%2BNoah%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt://book/c82bc1ff-7305-5acf-b948-a4163f03e2bc"
+      },
+      {
+        "rank": 5,
+        "rank_last_week": 0,
+        "weeks_on_list": 181,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0062316117",
+        "primary_isbn13": "9780062316110",
+        "publisher": "Harper Perennial",
+        "description": "How Homo sapiens became Earth’s dominant species.",
+        "price": "0.00",
+        "title": "SAPIENS",
+        "author": "Yuval Noah Harari",
+        "contributor": "by Yuval Noah Harari",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780062316097.jpg",
+        "book_image_width": 128,
+        "book_image_height": 192,
+        "amazon_product_url": "http://www.amazon.com/Sapiens-A-Brief-History-Humankind-ebook/dp/B00ICN066A?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0062316095",
+            "isbn13": "9780062316097"
+          },
+          {
+            "isbn10": "0062316109",
+            "isbn13": "9780062316103"
+          },
+          {
+            "isbn10": "0062796232",
+            "isbn13": "9780062796233"
+          },
+          {
+            "isbn10": "1494576902",
+            "isbn13": "9781494576905"
+          },
+          {
+            "isbn10": "0062316117",
+            "isbn13": "9780062316110"
+          },
+          {
+            "isbn10": "1494506904",
+            "isbn13": "9781494506902"
+          },
+          {
+            "isbn10": "1494556901",
+            "isbn13": "9781494556907"
+          },
+          {
+            "isbn10": "1473523788",
+            "isbn13": "9781473523784"
+          },
+          {
+            "isbn10": "1538456583",
+            "isbn13": "9781538456583"
+          },
+          {
+            "isbn10": "1538456605",
+            "isbn13": "9781538456606"
+          },
+          {
+            "isbn10": "1538456591",
+            "isbn13": "9781538456590"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "http://www.amazon.com/Sapiens-A-Brief-History-Humankind-ebook/dp/B00ICN066A?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780062316110?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062316110"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FSAPIENS%252FYuval%252BNoah%252BHarari%252F9780062316110&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DSAPIENS%252BYuval%252BNoah%252BHarari"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780062316110&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DSAPIENS"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780062316110%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DSAPIENS%2BYuval%2BNoah%2BHarari%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt://book/8396e181-cd69-5074-a009-ec8f051c54f2"
+      },
+      {
+        "rank": 6,
+        "rank_last_week": 8,
+        "weeks_on_list": 19,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0316299227",
+        "primary_isbn13": "9780316299220",
+        "publisher": "Back Bay",
+        "description": "Famous examples of miscommunication serve as the backdrop to explain potential conflicts and misunderstandings.",
+        "price": "0.00",
+        "title": "TALKING TO STRANGERS",
+        "author": "Malcolm Gladwell",
+        "contributor": "by Malcolm Gladwell",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316478526.jpg",
+        "book_image_width": 330,
+        "book_image_height": 491,
+        "amazon_product_url": "https://www.amazon.com/Talking-Strangers-Should-about-People/dp/0316478520?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "https://www.nytimes.com/2019/09/04/books/review-talking-to-strangers-malcolm-gladwell.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0316478520",
+            "isbn13": "9780316478526"
+          },
+          {
+            "isbn10": "0316535575",
+            "isbn13": "9780316535571"
+          },
+          {
+            "isbn10": "0316535621",
+            "isbn13": "9780316535625"
+          },
+          {
+            "isbn10": "1549150340",
+            "isbn13": "9781549150340"
+          },
+          {
+            "isbn10": "1549150332",
+            "isbn13": "9781549150333"
+          },
+          {
+            "isbn10": "1549100025",
+            "isbn13": "9781549100024"
+          },
+          {
+            "isbn10": "1549100017",
+            "isbn13": "9781549100017"
+          },
+          {
+            "isbn10": "0316299227",
+            "isbn13": "9780316299220"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Talking-Strangers-Should-about-People/dp/0316478520?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780316299220?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316299220"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTALKING%252BTO%252BSTRANGERS%252FMalcolm%252BGladwell%252F9780316299220&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTALKING%252BTO%252BSTRANGERS%252BMalcolm%252BGladwell"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780316299220&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTALKING%2BTO%2BSTRANGERS"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780316299220%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTALKING%2BTO%2BSTRANGERS%2BMalcolm%2BGladwell%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt://book/8f9a9575-8d7e-5e74-935c-56865f8addbf"
+      },
+      {
+        "rank": 7,
+        "rank_last_week": 6,
+        "weeks_on_list": 304,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0374533555",
+        "primary_isbn13": "9780374533557",
+        "publisher": "Farrar, Straus & Giroux",
+        "description": "When we can and cannot trust our intuitions in making business and personal decisions.",
+        "price": "0.00",
+        "title": "THINKING, FAST AND SLOW",
+        "author": "Daniel Kahneman",
+        "contributor": "by Daniel Kahneman",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781429969352.jpg",
+        "book_image_width": 330,
+        "book_image_height": 490,
+        "amazon_product_url": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "https://www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "https://www.nytimes.com/2011/11/27/books/review/thinking-fast-and-slow-by-daniel-kahneman-book-review.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0374275637",
+            "isbn13": "9780374275631"
+          },
+          {
+            "isbn10": "0739357980",
+            "isbn13": "9780739357989"
+          },
+          {
+            "isbn10": "0374533555",
+            "isbn13": "9780374533557"
+          },
+          {
+            "isbn10": "0606275649",
+            "isbn13": "9780606275644"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman-ebook/dp/B00555X8OA?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780374533557?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780374533557"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHINKING%25252C%252BFAST%252BAND%252BSLOW%252FDaniel%252BKahneman%252F9780374533557&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHINKING%25252C%252BFAST%252BAND%252BSLOW%252BDaniel%252BKahneman"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780374533557&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHINKING%252C%2BFAST%2BAND%2BSLOW"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780374533557%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHINKING%252C%2BFAST%2BAND%2BSLOW%2BDaniel%2BKahneman%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt://book/1e1ffccd-d526-5154-84de-1628b31454e9"
+      },
+      {
+        "rank": 8,
+        "rank_last_week": 7,
+        "weeks_on_list": 275,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "081298496X",
+        "primary_isbn13": "9780812984965",
+        "publisher": "One World",
+        "description": "A civil rights lawyer and MacArthur grant recipient’s memoir of his decades of work to free innocent people condemned to death.",
+        "price": "0.00",
+        "title": "JUST MERCY",
+        "author": "Bryan Stevenson",
+        "contributor": "by Bryan Stevenson",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780812994520.jpg",
+        "book_image_width": 128,
+        "book_image_height": 193,
+        "amazon_product_url": "http://www.amazon.com/Just-Mercy-Story-Justice-Redemption-ebook/dp/B00JYWVYLY?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "https://www.nytimes.com/2014/10/19/books/review/just-mercy-by-bryan-stevenson.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0812994523",
+            "isbn13": "9780812994520"
+          },
+          {
+            "isbn10": "0553550608",
+            "isbn13": "9780553550603"
+          },
+          {
+            "isbn10": "1925113574",
+            "isbn13": "9781925113570"
+          },
+          {
+            "isbn10": "081298496X",
+            "isbn13": "9780812984965"
+          },
+          {
+            "isbn10": "0593133935",
+            "isbn13": "9780593133934"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "http://www.amazon.com/Just-Mercy-Story-Justice-Redemption-ebook/dp/B00JYWVYLY?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780812984965?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780812984965"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FJUST%252BMERCY%252FBryan%252BStevenson%252F9780812984965&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DJUST%252BMERCY%252BBryan%252BStevenson"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780812984965&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DJUST%2BMERCY"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780812984965%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DJUST%2BMERCY%2BBryan%2BStevenson%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt://book/cd6d25c8-a6f0-55a4-b322-e8eb0dbb5fb3"
+      },
+      {
+        "rank": 9,
+        "rank_last_week": 10,
+        "weeks_on_list": 15,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0063159988",
+        "primary_isbn13": "9780063159983",
+        "publisher": "Custom House",
+        "description": "An account of the murder of Maurizio Gucci in 1995; the basis of the film.",
+        "price": "0.00",
+        "title": "THE HOUSE OF GUCCI",
+        "author": "Sara Gay Forden",
+        "contributor": "by Sara Gay Forden",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063159983.jpg",
+        "book_image_width": 332,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0063159988?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0063159988",
+            "isbn13": "9780063159983"
+          },
+          {
+            "isbn10": "0060937750",
+            "isbn13": "9780060937751"
+          },
+          {
+            "isbn10": "0062222678",
+            "isbn13": "9780062222671"
+          },
+          {
+            "isbn10": "0063040271",
+            "isbn13": "9780063040274"
+          },
+          {
+            "isbn10": "1799941256",
+            "isbn13": "9781799941255"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063159988?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063159983?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063159983"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BHOUSE%252BOF%252BGUCCI%252FSara%252BGay%252BForden%252F9780063159983&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BHOUSE%252BOF%252BGUCCI%252BSara%252BGay%252BForden"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780063159983&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BHOUSE%2BOF%2BGUCCI"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780063159983%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BHOUSE%2BOF%2BGUCCI%2BSara%2BGay%2BForden%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt://book/79d4a460-e030-514f-ab97-4613e2809954"
+      },
+      {
+        "rank": 10,
+        "rank_last_week": 9,
+        "weeks_on_list": 102,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1501111116",
+        "primary_isbn13": "9781501111112",
+        "publisher": "Scribner",
+        "description": "The MacArthur Fellow argues that passion and perseverance are more important than innate talent in creating success.",
+        "price": "0.00",
+        "title": "GRIT",
+        "author": "Angela Duckworth",
+        "contributor": "by Angela Duckworth",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781501111129.jpg",
+        "book_image_width": 328,
+        "book_image_height": 495,
+        "amazon_product_url": "http://www.amazon.com/Grit-The-Power-Passion-Perseverance-ebook/dp/B010MH9V3W?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "https://www.nytimes.com/2016/05/08/books/review/grit-by-angela-duckworth.html",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1501111108",
+            "isbn13": "9781501111105"
+          },
+          {
+            "isbn10": "1501111124",
+            "isbn13": "9781501111129"
+          },
+          {
+            "isbn10": "1442397144",
+            "isbn13": "9781442397149"
+          },
+          {
+            "isbn10": "1501111116",
+            "isbn13": "9781501111112"
+          },
+          {
+            "isbn10": "1442397136",
+            "isbn13": "9781442397132"
+          },
+          {
+            "isbn10": "1501144162",
+            "isbn13": "9781501144165"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "http://www.amazon.com/Grit-The-Power-Passion-Perseverance-ebook/dp/B010MH9V3W?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501111112?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501111112"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FGRIT%252FAngela%252BDuckworth%252F9781501111112&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DGRIT%252BAngela%252BDuckworth"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781501111112&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DGRIT"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781501111112%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DGRIT%2BAngela%2BDuckworth%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt://book/0918932d-5172-5781-9ea9-bf6549b313aa"
+      },
+      {
+        "rank": 11,
+        "rank_last_week": 4,
+        "weeks_on_list": 6,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1400078431",
+        "primary_isbn13": "9781400078431",
+        "publisher": "Vintage",
+        "description": "Winner of the National Book Award in 2005. The late writer recounts her daughter’s illness and husband’s death.",
+        "price": "0.00",
+        "title": "THE YEAR OF MAGICAL THINKING",
+        "author": "Joan Didion",
+        "contributor": "by Joan Didion",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781400078431.jpg",
+        "book_image_width": 326,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1400078431?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "https://www.nytimes.com/2005/10/09/books/review/09pinsky.html",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1400078431",
+            "isbn13": "9781400078431"
+          },
+          {
+            "isbn10": "0307279723",
+            "isbn13": "9780307279729"
+          },
+          {
+            "isbn10": "1598872079",
+            "isbn13": "9781598872071"
+          },
+          {
+            "isbn10": "140004314X",
+            "isbn13": "9781400043149"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1400078431?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781400078431?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781400078431"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BYEAR%252BOF%252BMAGICAL%252BTHINKING%252FJoan%252BDidion%252F9781400078431&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BYEAR%252BOF%252BMAGICAL%252BTHINKING%252BJoan%252BDidion"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781400078431&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BYEAR%2BOF%2BMAGICAL%2BTHINKING"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781400078431%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BYEAR%2BOF%2BMAGICAL%2BTHINKING%2BJoan%2BDidion%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt://book/dd66703f-5e2f-561e-b347-58b901158c2b"
+      },
+      {
+        "rank": 12,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1984855018",
+        "primary_isbn13": "9781984855015",
+        "publisher": "Random House",
+        "description": "The story of an enslaved woman whose daughter was separated from her and sold is passed down through generations.",
+        "price": "0.00",
+        "title": "ALL THAT SHE CARRIED",
+        "author": "Tiya Miles",
+        "contributor": "by Tiya Miles",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781984855015.jpg",
+        "book_image_width": 324,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/1984855018?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1984855018",
+            "isbn13": "9781984855015"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/1984855018?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781984855015?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984855015"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FALL%252BTHAT%252BSHE%252BCARRIED%252FTiya%252BMiles%252F9781984855015&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DALL%252BTHAT%252BSHE%252BCARRIED%252BTiya%252BMiles"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781984855015&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DALL%2BTHAT%2BSHE%2BCARRIED"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781984855015%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DALL%2BTHAT%2BSHE%2BCARRIED%2BTiya%2BMiles%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt://book/cf7a671b-d9b2-5cda-a8bc-27769a00c72d"
+      },
+      {
+        "rank": 13,
+        "rank_last_week": 0,
+        "weeks_on_list": 51,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "1501144324",
+        "primary_isbn13": "9781501144325",
+        "publisher": "Scribner",
+        "description": "A neuroscientist uses recent scientific discoveries to explain the functions of sleep and dreams.",
+        "price": "0.00",
+        "title": "WHY WE SLEEP",
+        "author": "Matthew Walker",
+        "contributor": "by Matthew Walker",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9781501144318.jpg",
+        "book_image_width": 328,
+        "book_image_height": 495,
+        "amazon_product_url": "https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "1501144316",
+            "isbn13": "9781501144318"
+          },
+          {
+            "isbn10": "1501144332",
+            "isbn13": "9781501144332"
+          },
+          {
+            "isbn10": "1501144324",
+            "isbn13": "9781501144325"
+          },
+          {
+            "isbn10": "1508279314",
+            "isbn13": "9781508279310"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9781501144325?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501144325"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FWHY%252BWE%252BSLEEP%252FMatthew%252BWalker%252F9781501144325&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DWHY%252BWE%252BSLEEP%252BMatthew%252BWalker"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781501144325&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DWHY%2BWE%2BSLEEP"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781501144325%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DWHY%2BWE%2BSLEEP%2BMatthew%2BWalker%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt://book/6f7c99ee-b6e0-50d5-9708-5b7a008d4332"
+      },
+      {
+        "rank": 14,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0593312198",
+        "primary_isbn13": "9780593312193",
+        "publisher": "Vintage",
+        "description": "A collection of 12 pieces written between 1968 and 2000 that includes observations on the underground press and the act of writing.",
+        "price": "0.00",
+        "title": "LET ME TELL YOU WHAT I MEAN",
+        "author": "Joan Didion",
+        "contributor": "by Joan Didion",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593318485.jpg",
+        "book_image_width": 310,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/059331848X?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "059331848X",
+            "isbn13": "9780593318485"
+          },
+          {
+            "isbn10": "0593318498",
+            "isbn13": "9780593318492"
+          },
+          {
+            "isbn10": "0593312198",
+            "isbn13": "9780593312193"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/059331848X?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780593312193?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593312193"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FLET%252BME%252BTELL%252BYOU%252BWHAT%252BI%252BMEAN%252FJoan%252BDidion%252F9780593312193&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DLET%252BME%252BTELL%252BYOU%252BWHAT%252BI%252BMEAN%252BJoan%252BDidion"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593312193&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DLET%2BME%2BTELL%2BYOU%2BWHAT%2BI%2BMEAN"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593312193%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DLET%2BME%2BTELL%2BYOU%2BWHAT%2BI%2BMEAN%2BJoan%2BDidion%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt://book/7fd2cddf-4e3a-5d08-b596-dbd876dcde9f"
+      },
+      {
+        "rank": 15,
+        "rank_last_week": 14,
+        "weeks_on_list": 18,
+        "asterisk": 0,
+        "dagger": 0,
+        "primary_isbn10": "0063030934",
+        "primary_isbn13": "9780063030930",
+        "publisher": "Harper",
+        "description": "Twenty-five young inmates of the Auschwitz-Birkenau concentration camp made garments for elite Nazi women.",
+        "price": "0.00",
+        "title": "THE DRESSMAKERS OF AUSCHWITZ",
+        "author": "Lucy Adlington",
+        "contributor": "by Lucy Adlington",
+        "contributor_note": "",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063030930.jpg",
+        "book_image_width": 331,
+        "book_image_height": 500,
+        "amazon_product_url": "https://www.amazon.com/dp/0063030934?tag=NYTBSREV-20",
+        "age_group": "",
+        "book_review_link": "",
+        "first_chapter_link": "",
+        "sunday_review_link": "",
+        "article_chapter_link": "",
+        "isbns": [
+          {
+            "isbn10": "0063030934",
+            "isbn13": "9780063030930"
+          },
+          {
+            "isbn10": "0063030942",
+            "isbn13": "9780063030947"
+          },
+          {
+            "isbn10": "0063030926",
+            "isbn13": "9780063030923"
+          }
+        ],
+        "buy_links": [
+          {
+            "name": "Amazon",
+            "url": "https://www.amazon.com/dp/0063030934?tag=NYTBSREV-20"
+          },
+          {
+            "name": "Apple Books",
+            "url": "https://goto.applebooks.apple/9780063030930?at=10lIEQ"
+          },
+          {
+            "name": "Barnes and Noble",
+            "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063030930"
+          },
+          {
+            "name": "Books-A-Million",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BDRESSMAKERS%252BOF%252BAUSCHWITZ%252FLucy%252BAdlington%252F9780063030930&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BDRESSMAKERS%252BOF%252BAUSCHWITZ%252BLucy%252BAdlington"
+          },
+          {
+            "name": "Bookshop",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780063030930&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BDRESSMAKERS%2BOF%2BAUSCHWITZ"
+          },
+          {
+            "name": "IndieBound",
+            "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780063030930%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BDRESSMAKERS%2BOF%2BAUSCHWITZ%2BLucy%2BAdlington%26aff%3DNYT"
+          }
+        ],
+        "book_uri": "nyt://book/69598915-6751-57c7-b79b-6f777e81a8fc"
+      }
+    ],
+    "corrections": []
+  }
+}

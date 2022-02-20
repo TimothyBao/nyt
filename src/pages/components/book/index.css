@@ -1,0 +1,60 @@
+
+
+
+.book {
+  font-family: Georgia, sans-serif;
+  margin-top: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: left; 
+  align-items: center; 
+}
+
+.book .bookImageBox {
+  width: 128px;
+  height: 193px;
+}
+.book .bookImage {
+  height: 100%;
+}
+
+.book .detail {
+  padding: 30px 30px;
+  text-align: left;
+}
+
+.book .index {
+  font-size: 30px;
+  font-weight: 800;
+  text-align: left;
+  margin-top: -120px;
+  padding-right: 30px;
+}
+.book .title {
+  font-size: 26px;
+  font-weight: 800;
+  margin-top: 3px;
+}
+.book .detail .contributor {
+  font-size: 16px;
+  padding-top: 10px;
+}
+.book .detail .description {
+  font-size: 16px;
+  padding-top: 15px;
+}
+.book .detail .isbn {
+  font-size: 16px;
+  padding-top: 15px;
+}
+.list {
+  font-size: 1.2em;
+  margin: 1.8em 0 0;
+  list-style: none;
+  line-height: 1.5em;
+}
+
+.list code {
+  background: #f7f7f7;
+}
+
